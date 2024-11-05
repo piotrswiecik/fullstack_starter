@@ -174,3 +174,6 @@ yarn-error.log*
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Docker components
+.docker-conf/
